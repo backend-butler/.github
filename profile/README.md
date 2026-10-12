@@ -1,6 +1,6 @@
 # Backend Butler
 
-A Claude agent that looks after the things running in your home: Home Assistant today, and soon Proxmox, Docker, VMs and the services on them.
+An AI agent that looks after the things running in your home: Home Assistant today, and soon Proxmox, Docker, VMs and the services on them.
 
 | Repository | What it is |
 |---|---|
